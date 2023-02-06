@@ -1,2 +1,2 @@
 # imunnyangi
-volunteer project to adopt stray cats
+website code for volunteer project to adopt stray cats
